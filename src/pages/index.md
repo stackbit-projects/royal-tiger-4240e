@@ -77,7 +77,7 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
+  - title: Testing 123
     content: >-
       ## Lorem ipsum
 
