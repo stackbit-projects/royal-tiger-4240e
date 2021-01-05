@@ -32,7 +32,7 @@
             {
                 "label": "Products",
                 "url": "lorem-ipsum",
-                "style": "link",
+                "style": "primary",
                 "new_window": false,
                 "type": "action"
             }
